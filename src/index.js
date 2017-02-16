@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Wrapper from './HighOrder';
+import App from './Reusable';
 
 ReactDOM.render(
-  <Wrapper />,
+  <App />,
   document.getElementById('root')
 );
